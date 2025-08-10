@@ -14,6 +14,7 @@ A simple yet powerful AI agent built with Python and Flask. This project provide
 *   **Vercel Deployment**: Easily deploy your application to Vercel with the included `vercel.json` configuration.
 *   **GitHub Actions**: Automated release workflow to streamline your development process.
 *   **Docker Support**: Includes a `Dockerfile` for easy containerization.
+*   **GitHub Pages**: Documentation hosted on GitHub Pages.
 *   **Extensible**: Designed to be easily extended with new features and capabilities.
 
 ## Getting Started
@@ -49,6 +50,10 @@ This project includes a `Dockerfile` for easy containerization.
 ## Deployment
 
 This project is configured for easy deployment to Vercel. Simply connect your GitHub repository to Vercel and it will automatically build and deploy your application.
+
+## Documentation
+
+The documentation for this project is hosted on GitHub Pages. You can view it [here](https://likhonsdev.github.io/pythonagi/).
 
 ## Contributing
 
