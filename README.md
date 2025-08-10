@@ -13,6 +13,7 @@ A simple yet powerful AI agent built with Python and Flask. This project provide
 *   **Flask Backend**: A lightweight and flexible web framework for Python.
 *   **Vercel Deployment**: Easily deploy your application to Vercel with the included `vercel.json` configuration.
 *   **GitHub Actions**: Automated release workflow to streamline your development process.
+*   **Docker Support**: Includes a `Dockerfile` for easy containerization.
 *   **Extensible**: Designed to be easily extended with new features and capabilities.
 
 ## Getting Started
@@ -30,6 +31,19 @@ To get started with this project, follow these steps:
 3.  **Run the development server:**
     ```sh
     ./devserver.sh
+    ```
+
+## Docker
+
+This project includes a `Dockerfile` for easy containerization.
+
+1.  **Build the Docker image:**
+    ```sh
+    docker build -t pythonagi .
+    ```
+2.  **Run the Docker container:**
+    ```sh
+    docker run -p 80:80 pythonagi
     ```
 
 ## Deployment
