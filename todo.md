@@ -1,0 +1,8 @@
+- [ ] Create a `.gitignore` file.
+- [ ] Initialize the git repository.
+- [ ] Create the `vercel.json` file.
+- [ ] Add all files to git.
+- [ ] Commit the files.
+- [ ] Create a new repository on GitHub.
+- [ ] Add the remote origin.
+- [ ] Push the code to GitHub.
